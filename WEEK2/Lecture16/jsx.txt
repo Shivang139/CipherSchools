@@ -1,0 +1,9 @@
+JSX looks and behave like HTML
+JSX can contain 2 things:
+    HTML tags
+    React components
+JSX allows us to write JS code inside.
+
+
+
+Changes was done under app.js file which is insode the src folder.
